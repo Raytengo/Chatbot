@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>Chat with AI</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="chat-container">
+        <!-- 對話顯示區域 -->
+        <div id="chat-history" class="chat-history"></div>
+    
+        <!-- 設定區域 -->
+        <div class="settings-row">
+            <div class="settings">
+                <label for="world-setting">當下世界設定：</label>
+                <input type="text" id="world-setting" placeholder="說個設定">
+                <button id="update-world-btn">更新世界</button>
+            </div>
+        </div>
+    
+        <!-- 輸入區域 -->
+        <div class="input-area">
+            <input type="text" id="user-input" placeholder="輸入訊息...">
+            <button id="send-btn">發送</button>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='chat.js') }}"></script>
+</body>
+</html>
