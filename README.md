@@ -1,7 +1,7 @@
-# Chatbot Rival - User Interaction Edition
+# Chatbot  - User Interaction Edition
 ![image](https://github.com/Raytengo/Chatbot/blob/main/img/Demo.png)
 
-**Chatbot Rival - User Interaction Edition** is a variant of the original [Chatbot Rival](https://github.com/Raytengo/Chatbot-Rival) project. This version enhances user interaction by allowing them to directly converse with the AI chatbots while retaining the original functionality to customize the world settings. In another word, this version allow you to talk to AI.
+**Chatbot  - User Interaction Edition** is a variant of the original [Chatbot Rival](https://github.com/Raytengo/Chatbot-Rival) project. This version enhances user interaction by allowing them to directly converse with the AI chatbots while retaining the original functionality to customize the world settings. In another word, this version allow you to talk to AI.
 
 ## Features ✨
 
